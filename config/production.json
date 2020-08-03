@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://ak123:ak123@devconnector.ume92.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecretkey",
+    "githubClientId": "01eb887d56d410b704c1",
+    "githubSecret": "f4a99c5de24077cb49491cd94410e76e7ea59ed4"
+  }
+  
